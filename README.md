@@ -1,6 +1,6 @@
-# Windows Terminal Args
+# Windows Terminal Arguments
 
-Windows Terminal profile to enable command line arguments.
+Windows Terminal profile to enable command line args.
 
 Pass your command line parameters through wt.exe and onto powershell, cmd or wsl
 
