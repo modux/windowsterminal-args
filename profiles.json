@@ -42,14 +42,7 @@
             "source": "Windows.Terminal.Azure",
 "startingDirectory": "%__CD__%"
         },
-        {
-            "guid": "{1453ae62-4e3d-5e58-b989-0a998ec441b8}",
-            "hidden": false,
-            "name": "SSH ",
-            "commandline": "wsl ssh sash@ganon",
-"startingDirectory": "%__CD__%"
-
-        }
+       
     ],
 
     // Add custom color schemes to this array
