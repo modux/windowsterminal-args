@@ -1,23 +1,12 @@
 # windowsterminal-args
 
-Windows Terminal Profile to enable command line arguments
+Windows Terminal Profile to enable command line arguments.
 
-## Getting Started
+Pass your command line parameters through wt.exe and onto powershell, cmd or wsl
 
 Works with Powershell.exe, cmd.exe, wsl.exe and more (Windows Subsystem for Linux)  
 
 The current working directory is also passed through to the new shell 
-
-### Prerequisites
-
-Microsoft Windows Terminal
-https://github.com/microsoft/terminal
-
-
-### Installing
-
-Download the profiles.json and replace it with your current profile. (wt.exe => Arrow Menu => Settings => Copy and paste replace)
-
 
 ## Usage
 Just load regular cmd
@@ -44,6 +33,14 @@ Load Windoews Subsystem Linux (wsl)
 ```
 wt wsl
 ```
+### Installing
+
+Download the profiles.json and replace it with your current profile. (wt.exe => Arrow Menu => Settings => Copy and paste replace)
+
+### Prerequisites
+
+Microsoft Windows Terminal
+https://github.com/microsoft/terminal
 
 ## Built With
 
