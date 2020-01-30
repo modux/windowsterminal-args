@@ -29,7 +29,7 @@ Run a command
 wt ipconfig
 ```
 
-Load Windoews Subsystem Linux (wsl) 
+Load Windows Subsystem Linux (wsl) 
 ```
 wt wsl
 ```
